@@ -1,0 +1,1 @@
+# gitignore in google with Linux, Windows and Mac. Create a .gitignore file with result of gitignore.io
